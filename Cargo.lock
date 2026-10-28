@@ -2200,6 +2200,7 @@ dependencies = [
  "clap",
  "colored_json",
  "const_format",
+ "directories",
  "human-repr",
  "indicatif",
  "librqbit",
